@@ -1,0 +1,30 @@
+Test 1
+Question: În ce secol este copiat „Apostolul lui Ștefan” (Ms. sl. 20
+BAR)
+Correct Answer: Secolul al III-lea
+Generated Answer: Conform documentelor furnizate, informațiile despre în ce secol este copiat „Apostolul lui Ștefan” (Ms. sl. 20 BAR) nu se regăsesc.
+----------------------------------------
+Test 2
+Question: În ce an se naște Grigore Țamblac?
+Correct Answer: c. 1364
+Generated Answer: Conform documentelor furnizate, informațiile despre în ce an se naște Grigore Țamblac nu se regăsesc.
+----------------------------------------
+Test 3
+Question: Când dăruiește Voievodul Dan I (1383–1386) 
+Mănăstirii Tismana statut de samovlastie?
+Correct Answer: 1385
+Generated Answer: Conform documentelor furnizate, Voievodul Dan I (1383–1386) dăruiește Mănăstirii Tismana statut de samovlastie în anul **1385**.
+----------------------------------------
+Test 4
+Question: Care logofăt de la curtea lui Mircea cel Bătrân, 
+compune arenga (subdiviziune a protocolului
+inițial al unui document) pentru hrisoavele
+redactate sub supravegherea lui?
+Correct Answer: Filotei (sau Filos)
+Generated Answer: Conform documentelor furnizate, informațiile despre un logofăt de la curtea lui Mircea cel Bătrân care să fi compus arenga pentru hrisoavele redactate sub supravegherea lui nu se regăsesc. Textul menționează doar pe marele logofăt Teodosie Rudeanu, care a redactat cronica oficială a domniei lui Mihai Viteazul.
+----------------------------------------
+Test 5
+Question: Când se naște Neagoe Basarab?
+Correct Answer: 1481
+Generated Answer: Conform documentelor furnizate, informațiile despre când s-a născut Neagoe Basarab nu se regăsesc. Textul menționează doar când a urcat pe tronul Țării Românești, între 22 și 25 ianuarie 1512.
+----------------------------------------

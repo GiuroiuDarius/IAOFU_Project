@@ -1,0 +1,7 @@
+chromadb
+langchain
+openai
+langchain-huggingface
+langchain_community
+matplotlib
+sentence-transformers       
