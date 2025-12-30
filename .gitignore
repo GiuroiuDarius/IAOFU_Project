@@ -4,3 +4,6 @@ __pycache__/
 .env
 .env/
 chroma_db/
+dataset/dictionar1.pdf
+dataset/dictionar2.pdf
+dataset/dictionar3.pdf
